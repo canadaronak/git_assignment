@@ -47,4 +47,4 @@ g. What is the main branch?
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 
-- No, First we need to add remote our repository then add then push it to the main branch. 
+- No, First we need to add remote our repository then push it to the main branch. 
